@@ -5,5 +5,5 @@ Um projeto feito durante a playlist do Matheus Batistti no Youtube, a fim de tre
 ## O projeto utiliza: 
 ReactJS
 
-Link para a playlist: <a href='https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO'><a/>
+ <a href='https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO'>Link para a playlist<a/>
 
