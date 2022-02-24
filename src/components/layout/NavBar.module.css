@@ -1,0 +1,33 @@
+.logo {
+  height: 80px;
+  width: 80px;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #5183C0;
+  padding: 1em;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.item {
+  margin-right: 1em;
+}
+
+.item a {
+  transition: 0.5s;
+  color: white;
+  text-decoration: none;
+}
+
+.item a:hover {
+  color: #ffd54f;
+  font-weight: bolder;
+}
